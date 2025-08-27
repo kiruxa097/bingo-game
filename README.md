@@ -25,22 +25,22 @@ Bingo — это интерактивная игра на Python с графич
 ## 📂 Структура проекта
 
 bingo-game/
-├─ README.md
-├─ LICENSE
-├─ bingo/
-│   ├─ bingo.py
-│   ├─ window_bingo.png
-│   ├─ singl_menu_4x4.png
-│   ├─ singl_menu_5x5.png
-│   └─ singl_menu_6x6.png
-└─ screenshots/
-    ├─ main_menu.png
-    ├─ game_mode_6x6.png
-    ├─ game_mode_5x5.png
-    ├─ game_mode_4x4.png
-    ├─ game_mode_2.png
-    ├─ game_mode_1.png
-    └─ final_menu.png
+├── README.md
+├── LICENSE
+├── bingo/
+│   ├── bingo.py
+│   ├── window_bingo.png
+│   ├── singl_menu_4x4.png
+│   ├── singl_menu_5x5.png
+│   └── singl_menu_6x6.png
+└── screenshots/
+    ├── main_menu.png
+    ├── game_mode_6x6.png
+    ├── game_mode_5x5.png
+    ├── game_mode_4x4.png
+    ├── game_mode_2.png
+    ├── game_mode_1.png
+    └── final_menu.png
 
 ---
 
